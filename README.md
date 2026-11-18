@@ -9,8 +9,8 @@ Get the latest version from the **[Releases](../../releases/latest)** page:
 
 | File | What it is |
 | --- | --- |
-| `DavidSoft Writer_<version>_arm64-setup.exe` | Installer (recommended). Installs for your user account only, no admin rights needed. |
-| `DavidSoft Writer_<version>_arm64_en-US.msi` | Windows Installer package, for installing with IT tools or for all users. |
+| `DavidSoft.Writer_<version>_arm64-setup.exe` | Installer (recommended). Installs for your user account only, no admin rights needed. |
+| `DavidSoft.Writer_<version>_arm64_en-US.msi` | Windows Installer package, for installing with IT tools or for all users. |
 
 > **Note:** the current builds are for **Windows on ARM (ARM64)** PCs, such as Snapdragon laptops.
 > Builds for regular Intel/AMD (x64) PCs are planned.
